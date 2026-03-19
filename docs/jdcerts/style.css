@@ -12,6 +12,16 @@ body {
     font-family: "Baskerville-old-face", sans-serif;
 }
 
+
+@font-face {
+    font-family: "CustomFont_0";
+    src: url("fonts/font_0.ttf") format("truetype");
+}
+.cert-text-0 {
+    font-family: "CustomFont_0", sans-serif !important;
+}
+
+
 .container {
     display: flex;
     flex-direction: column;
