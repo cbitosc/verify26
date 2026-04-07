@@ -1,0 +1,26 @@
+[
+  {
+    "code": "mdzakeraliOSYSOM0000",
+    "fields": [
+      "Md Zaker Ali",
+      "In recognition of exemplary performance and securing First Place"
+    ],
+    "holder": "Md Zaker Ali"
+  },
+  {
+    "code": "venkatakarthiksamulaOSYSOM0001",
+    "fields": [
+      "Venkata Karthik Samula",
+      "In recognition of exemplary performance and securing Second Place"
+    ],
+    "holder": "Venkata Karthik Samula"
+  },
+  {
+    "code": "thaneerupreethiOSYSOM0002",
+    "fields": [
+      "Thaneeru Preethi",
+      "In recognition of exemplary performance and securing Third Place"
+    ],
+    "holder": "Thaneeru Preethi"
+  }
+]
